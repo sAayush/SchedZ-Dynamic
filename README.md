@@ -1,3 +1,2 @@
 # Sched-Z
-work in progress
-
+it somehow works but still WIP
